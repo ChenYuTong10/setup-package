@@ -12,6 +12,7 @@ The setup packages in the table may be used after the computer is restored. Each
 | Git | 2.45.1 | https://git-scm.com |
 | GitHub Desktop | 3.3.18 | https://desktop.github.com |
 | Node.js | 20.13.1 | https://nodejs.org/en |
+| Go | 1.22.3 | https://go.dev/dl |
 | VirtualBox | 7.0.18 | https://www.virtualbox.org/wiki/Downloads |
 
 ## Tools
