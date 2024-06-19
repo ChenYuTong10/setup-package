@@ -20,7 +20,7 @@ The setup packages in the table may be used after the computer is restored. Each
 |    Package Name     | Latest Version |                           Address                            |
 | :-----------------: | :------------: | :----------------------------------------------------------: |
 |      Snipaste       |   2.9.1-Beta   |                   https://zh.snipaste.com                    |
-|  Clash for Windows  |    0.20.23     | ❌ |
+|  Clash for Windows  |    0.20.23     |                              ❌                               |
 | Netease Cloud Music |   3.0.0-Beta   |               https://music.163.com/#/download               |
 |         TT          |     1.9.9      |                     https://pc.52tt.com                      |
-
+|  VLC Media Player   |     3.0.21     | https://get.videolan.org/vlc/3.0.21/win32/vlc-3.0.21-win32.exe |
